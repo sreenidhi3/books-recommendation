@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.genreList {
+  padding: 0rem;
+  display: inline;
+  list-style: none;
+}
+
+ul {
+  padding: 0rem;
+  display: inline;
+  list-style: none;
+}
+
+.genreList li {
+  display: inline;
+}
+
+.genreList li button {
+  border: 0px;
+  cursor: pointer;
+  padding: 0.5rem;
+  background-color: #d1d5db;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.block {
+  margin: auto;
+  padding: 2rem;
+  max-width: 70%;
+}
+
+.recomm {
+  text-align: left;
+}
+
+.item {
+  padding: 1rem;
+  border-radius: 10px;
+  border-color: gray;
+  border: 1px solid#D1D5DB;
+  margin-bottom: 1rem;
+}
